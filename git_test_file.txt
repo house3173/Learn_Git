@@ -2,8 +2,8 @@ Git Test File
 
 Git Test File Changed
 
-Git Merge Conflig
+Git MergE Conflig
 
-Git Branch File Changed
+Git Branch File git_test_file.txt Changed
 
-Git Test File New Branch
+Git Test File New Branch master-clone
