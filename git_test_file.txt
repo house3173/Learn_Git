@@ -1,4 +1,5 @@
 Git Test File
-Git Test File Changed
+Git Merge Conflig
+Git Branch File Changed
 
 Git Test File New Branch
